@@ -1,2 +1,2 @@
-# JavaScript-grammer
-project about JavaScript grammer
+# TypeScript-grammer
+project about TypeScript grammer
